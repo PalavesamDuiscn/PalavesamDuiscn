@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **Palavesam Duiscn** 👋
+# Hi, I'm **Palavesam Duiscn** 
 
 ### Building with **Data & Code**
 
