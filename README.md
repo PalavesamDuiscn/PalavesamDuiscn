@@ -28,6 +28,6 @@ Building practical software through projects, continuous learning, and curiosity
 </p>
 
 ### Currently Exploring
-- SQL Optimization
+- Cloud Computing
 - Data Engineering
 - Artificial Intelligence
