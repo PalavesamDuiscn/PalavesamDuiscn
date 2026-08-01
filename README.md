@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Palavesam Duiscn</h1>
 
-<!--
-**PalavesamDuiscn/PalavesamDuiscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+BCA Student • Python Enthusiast • Java Learner • Data Engineering Aspirant
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Enthusiast;Java+Learner;Data+Engineering+Learner;Always+Building+and+Learning"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA Student
+- 🌱 Learning Python, Java & Data Engineering
+- 💡 Interested in AI, Data Engineering & Software Development
+- 🚀 Building projects and improving my problem-solving skills
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,mongodb,git,github,vscode"/>
+</p>
