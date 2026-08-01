@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Palavesam Duiscn</h1>
+<h1 align="center">Hi, I'm Palavesam Duiscn</h1>
 
 <h3 align="center">
 BCA Student • Python Enthusiast • Java Learner • Data Engineering Aspirant
