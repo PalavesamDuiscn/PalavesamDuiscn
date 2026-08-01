@@ -2,16 +2,27 @@
   <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Palavesam Duiscn</h1>
-
-<h3 align="center">
-BCA Student • Python Enthusiast • Java Learner • Data Engineering Aspirant
-</h3>
+<h1 align="center">Hi 👋 I'm Palavesam Duiscn</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Enthusiast;Java+Learner;Data+Engineering+Learner;Always+Building+and+Learning"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=BCA+Student;Python+Developer;Java+Learner;AI+Enthusiast;Data+Engineering+Learner;Always+Learning+Something+New" />
 </p>
 
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│ > whoami                                     │
+│                                              │
+│  👨 Name      : Palavesam Duiscn             │
+│  🎓 Role      : BCA Student                  │
+│  📍 Location  : Coimbatore, India            │
+│  💡 Focus     : AI • Python • Java           │
+│  🚀 Status    : Learning & Building          │
+└──────────────────────────────────────────────┘
+```
+
+</div>
 ---
 
 ## 👨‍💻 About Me
