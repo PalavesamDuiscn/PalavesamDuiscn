@@ -60,10 +60,14 @@ Data Engineering · Artificial Intelligence
 
 <p align="center">
   <a href="https://www.linkedin.com/in/palavesam-duiscn/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:palavesamduiscn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:pduiscn2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>Open to learning, collaboration, and meaningful opportunities.</sub>
 </p>
 
