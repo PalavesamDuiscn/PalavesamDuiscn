@@ -59,13 +59,16 @@ Data Engineering · Artificial Intelligence
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=PalavesamDuiscn&show_icons=true&hide_border=true&theme=github_dark"
-    height="170"
-    alt="GitHub Stats"
+    src="https://ghstats.dev/api/card?username=PalavesamDuiscn"
+    width="95%"
+    alt="GitHub Statistics"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalavesamDuiscn&layout=compact&hide_border=true&theme=github_dark"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalavesamDuiscn&layout=compact&theme=github_dark&hide_border=true"
+    width="45%"
     alt="Top Languages"
   />
 </p>
