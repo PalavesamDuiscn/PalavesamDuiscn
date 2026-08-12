@@ -63,9 +63,9 @@ Data Engineering · Artificial Intelligence
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PalavesamDuiscn&theme=github-dark&hide_border=true&custom_title=&area=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PalavesamDuiscn&theme=github-dark&hide_border=true&custom_title=Contribution%20Graph"
     width="95%"
-    alt="GitHub Contribution Activity"
+    alt="Contribution Graph"
   />
 </p>
 
