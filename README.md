@@ -65,6 +65,13 @@ Data Engineering · Artificial Intelligence
   />
 </p>
 
+## 🏆 Achievements
+
+- 🥈 **Query Quest** — 2nd Place, Tech Quiz
+- 🏆 **The Engaged Leader Award**
+- 🏆 **Multi-Talent Maestro Award**
+- 📚 **160 Hours of Data Structures & Algorithms** — Coding Blocks
+
 ## 📫 Let's Connect
 
 <p align="center">
