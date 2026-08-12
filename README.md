@@ -79,10 +79,10 @@ Data Engineering · Artificial Intelligence
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/palavesam-duiscn/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:pduiscn2006@gmail.com">
+  <a href="mailto:YOUR_GMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
