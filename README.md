@@ -4,7 +4,11 @@
 
 ### Building with **Data & Code**
 
-Building practical software through projects, continuous learning, and curiosity.
+I'm a BCA student who enjoys building practical software,
+solving problems, and learning through hands-on projects.
+
+This profile showcases the projects I'm building and the
+skills I'm developing along the way.
 
 </div>
 
