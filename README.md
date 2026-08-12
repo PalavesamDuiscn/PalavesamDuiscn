@@ -10,24 +10,48 @@ Building practical software through projects, continuous learning, and curiosity
 
 <br>
 
+## 🚀 Featured Projects
+
+### 🎬 movies-etl
+ETL project built with Python for extracting, transforming, and processing movie data.
+
+**Python · ETL**
+
+[View Repository](https://github.com/PalavesamDuiscn/movies-etl)
+
+---
+
+### 🏫 Smart Campus Complaint Management
+Java-based application for managing and tracking campus complaints.
+
+**Java**
+
+[View Repository](https://github.com/PalavesamDuiscn/smart-campus-complaint-management)
+
+---
+
+### 🤖 AI Career Advisor
+AI-focused project exploring career guidance and recommendation through a Jupyter Notebook.
+
+**Python · AI · Jupyter Notebook**
+
+[View Repository](https://github.com/PalavesamDuiscn/AI_Career_Advisor)
+
 ## 🛠️ Tools & Technologies
 
 ### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,java" />
 
 ### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### Currently Exploring
-- Cloud Computing
-- Data Engineering
-- Artificial Intelligence
+
+Data Engineering · Artificial Intelligence
+
