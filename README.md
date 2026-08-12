@@ -67,14 +67,6 @@ Data Engineering · Artificial Intelligence
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalavesamDuiscn&layout=compact&theme=github_dark&hide_border=true"
-    width="45%"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=PalavesamDuiscn&theme=github-dark&hide_border=true"
     width="95%"
     alt="GitHub Contribution Activity"
